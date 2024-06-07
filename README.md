@@ -24,3 +24,10 @@ Once the project is set up, you can start the application by running the followi
 `node server.js`
 
 You can access the application in your web browser at http://localhost:3000.
+
+---
+**NOTE**
+
+You will need the frontend running as well for this.
+
+---
